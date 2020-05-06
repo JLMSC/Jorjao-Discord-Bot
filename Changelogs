@@ -1,0 +1,50 @@
+# Changelog
+All notable changes to this project will now be documented in this file.
+
+### [ 1.04 ] - 2020-02-19
+#### Added
+- **J!Sinfo** - Show all the informations about a server.
+- **J!Bricks** - A Breakout based game.
+- **J!Filosofar** - Show your message as some philosopher's mention.
+- **J!Math** - A Math game.
+- **J!Feedback** - Allow the user to report bugs.
+- **J!Update** - Show all the recent patch notes.
+#### Changed
+- Command names translated from portuguese to english.
+- Help command visual changed.
+- Fix typos in **J!Help**.
+#### Removed
+- **J!SpcInv**
+#### Fixed
+- **J!Avatar** - Doesn't return the user's profile picture in some cases.
+
+### [ 1.20 ] - 2020-05-05
+#### Unreleased
+- **J!Wally** - A *Where's Wally?* based game.
+- **J!Jdv** - Tic-Tac-Toe against the bot or any user.
+#### Added
+- **J!Anagrama** - An anagram game.
+- **J!Cpmin** - Fully customizable minesweeper.
+- **J!Balloon** - A TypeRacer based game with random setences.
+- **J!Convite** - A quick invite from the bot.
+- The bot will now send any permissions related errors in the channel.
+- The bot will choice between online, idle and dnd as status.
+#### Changed
+- **J!Update** visual changed.
+- **J!Ajuda** visual changed.
+    - Command name changed from ~~J!Help~~ to **J!Ajuda**.
+- **J!Emote** visual changed.
+    - Command name changed from ~~J!Emoji~~ to **J!Emote**.
+- **J!Avatar** visual changed.
+- **J!Paint** visual changed.
+    - Now the user can use any emote as brush's color.
+    - Changed how the background paint works.
+- **J!Sinfo** visual changed.
+- **J!Diga** the bot will type for one second after sending the message.
+    - Command name changed from ~~J!Say~~ to **J!Diga**.
+- **J!Filosofar** improved the text alignment.
+    - Text font changed to Times.
+#### Removed
+- **J!Bricks** 
+- **J!Math**
+- **J!Feedback**
